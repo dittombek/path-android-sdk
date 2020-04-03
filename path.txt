@@ -1,0 +1,7 @@
+nano ~/.bashrc
+
+trus add dibawah ini
+
+export ANDROID_HOME=/home/ditto/Android/Sdk
+export ANDROID_SDK_ROOT=/home/ditto/Android/Sdk
+export PATH=$PATH:/home/ditto/Android/Sdk/platform-rools
